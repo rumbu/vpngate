@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 # vpngate.net .ovpn fetcher
 # 2015, 2017, Laurent Ghigonis <laurent@gouloum.fr>
